@@ -7,7 +7,7 @@ body {
 }
 
 section {
-    background-color:rgb(215, 36, 36);
+    background-color:blue;
     margin-inline-start: 0px;
     
 }
@@ -316,7 +316,7 @@ text-align: center;
     
         .wrapper{
             float:none;
-            flex-direction: column;  
+            padding: 50px;
             display:inline-block;
             }
             }
